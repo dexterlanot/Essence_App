@@ -4,7 +4,7 @@
 
 1. **Install Dependencies**:
    Ensure Flutter is set up and dependencies are installed:
-   ```flutter pub get```
+> flutter pub get
 
 ## Navigating the App
 
