@@ -39,12 +39,7 @@ Choose from categories like "All", "Mental Health", "HIV and STD", and "SOGIE SC
 - **Bookmarking**:
 Bookmark articles by tapping the bookmark icon on each article. Access bookmarked articles in the Bookmark section.
 
-- ![Home Screen](https://example.com/screenshots/home.png)
-*Caption: Home screen displaying articles on mental health.*
-
-- ![Dark Mode](https://example.com/screenshots/dark_mode.png)
-*Caption: App in dark mode for reduced eye strain.*
 
 ## Demo
 
-- **[View Demo](https://example.com/demo)**
+- **[View Demo](https://appdevproject-4c2b2.web.app/)**
