@@ -4,7 +4,10 @@
 
 1. **Install Dependencies**:
    Ensure Flutter is set up and dependencies are installed:
-> flutter pub get
+
+```
+flutter pub get
+```
 
 ## Navigating the App
 
@@ -35,8 +38,6 @@ Choose from categories like "All", "Mental Health", "HIV and STD", and "SOGIE SC
 
 - **Bookmarking**:
 Bookmark articles by tapping the bookmark icon on each article. Access bookmarked articles in the Bookmark section.
-
-## Screenshots
 
 - ![Home Screen](https://example.com/screenshots/home.png)
 *Caption: Home screen displaying articles on mental health.*
