@@ -49,6 +49,12 @@ Bookmark articles by tapping the bookmark icon on each article. Access bookmarke
   <img src="assets/article-desktop.png" width="200" />
 </p>
 
+<p align="center">
+  <img src="assets/dark mode mobile.jpg" width="400" />
+  <img src="assets/light mode mobile.jpg" width="400" />
+  <img src="assets/bookmarked.jpg" width="400" />
+</p>
+
 ## Demo
 
 - **[View Demo](https://appdevproject-4c2b2.web.app/)**
