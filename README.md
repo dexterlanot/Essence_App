@@ -1,16 +1,45 @@
-# final_project
-
-A new Flutter project.
+# Essence App Guide
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. **Install Dependencies**:
+   Ensure Flutter is set up and dependencies are installed:
 
-A few resources to get you started if this is your first Flutter project:
+```
+flutter pub get
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Navigating the App
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Light and Dark Mode
+
+- **Switching Modes**:
+Tap the mode toggle button in the app bar to switch between light and dark modes.
+
+### Navigation Bar
+
+- **Home**:
+Explore articles covering mental health, HIV/STD, and SOGIE SC topics.
+
+- **Bookmark**:
+Access and manage bookmarked articles.
+
+### Search Bar
+
+- **Searching Articles**:
+Use the search bar to find articles by keywords or topics.
+
+### Filters
+
+- **Category Filters**:
+Choose from categories like "All", "Mental Health", "HIV and STD", and "SOGIE SC" to filter articles.
+
+### Bookmarking Articles
+
+- **Bookmarking**:
+Bookmark articles by tapping the bookmark icon on each article. Access bookmarked articles in the Bookmark section.
+
+
+## Demo
+
+- **[View Demo](https://appdevproject-4c2b2.web.app/)**
