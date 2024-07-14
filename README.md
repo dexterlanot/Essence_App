@@ -50,9 +50,9 @@ Bookmark articles by tapping the bookmark icon on each article. Access bookmarke
 </p>
 
 <p align="center">
-  <img src="assets/dark mode mobile.jpg" width="400" />
-  <img src="assets/light mode mobile.jpg" width="400" />
-  <img src="assets/bookmarked.jpg" width="400" />
+  <img src="assets/dark mode mobile.jpg" width="200" />
+  <img src="assets/light mode mobile.jpg" width="200" />
+  <img src="assets/bookmarked.jpg" width="200" />
 </p>
 
 ## Demo
