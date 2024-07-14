@@ -40,6 +40,15 @@ Choose from categories like "All", "Mental Health", "HIV and STD", and "SOGIE SC
 Bookmark articles by tapping the bookmark icon on each article. Access bookmarked articles in the Bookmark section.
 
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/home-dark-desktop.png" width="200" />
+  <img src="assets/home-desktop.png" width="200" />
+  <img src="assets/article-dark-desktop.png" width="200" />
+  <img src="assets/article-desktop.png" width="200" />
+</p>
+
 ## Demo
 
 - **[View Demo](https://appdevproject-4c2b2.web.app/)**
