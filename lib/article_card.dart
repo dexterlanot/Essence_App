@@ -11,6 +11,7 @@ class ArticleCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final bookmarkService = Provider.of<BookmarkService>(context);
+    final isMobile = MediaQuery.of(context).size.width < 768;
 
     return Card(
       elevation: 0,
@@ -76,7 +77,7 @@ class ArticleCard extends StatelessWidget {
                 const SizedBox(height: 8),
                 Text(
                   article.snippet,
-                  maxLines: 5,
+                  maxLines: isMobile ? 3 : 5,
                   overflow: TextOverflow.ellipsis,
                   style: Theme.of(context).textTheme.bodyMedium,
                 ),
