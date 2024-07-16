@@ -585,6 +585,233 @@ https://siopau.medium.com/we-accept-the-love-we-think-we-deserve-9b509a2d9ecb
         category: 'Mental Health',
         author: 'pau, 2024',
       ),
+
+      Article(
+        id: '13',
+        title: 'THE IMPORTANCE OF MENTAL HEALTH AWARENESS',
+        snippet:
+            'Mental illnesses affect 19% of the adult population, 46% of teenagers and 13% of children each year. People struggling with their mental health may be in your family, live next door, teach your children, work in the next cubicle or sit in the same church pew.',
+        content: '''
+
+Mental illnesses affect 19% of the adult population, 46% of teenagers and 13% of children each year. People struggling with their mental health may be in your family, live next door, teach your children, work in the next cubicle or sit in the same church pew.
+
+However, only half of those affected receive treatment, often because of the stigma attached to mental health. Untreated, mental illness can contribute to higher medical expenses, poorer performance at school and work, fewer employment opportunities and increased risk of suicide.
+
+What Exactly is a Mental Illness
+A mental illness is a physical illness of the brain that causes disturbances in thinking, behavior, energy or emotion that make it difficult to cope with the ordinary demands of life. Research is starting to uncover the complicated causes of these diseases which can include genetics, brain chemistry, brain structure, experiencing trauma and/or having another medical condition, like heart disease.
+
+The two most common mental health conditions are:
+
+Anxiety Disorders
+More than 19% of adults each year struggle with some type of anxiety disorder, including: post-traumatic stress disorder (PTSD), obsessive-compulsive disorder (OCD), panic disorder (panic attacks), generalized anxiety disorder and specific phobias
+
+Mood Disorders
+Mood disorders, such as depression and bipolar depression, affect nearly 10% of adults each year and are characterized by difficulties in regulating one’s mood.
+''',
+        imageUrl:
+            'https://www.pinerest.org/newsroom/wp-content/uploads/2021/12/Importance-of-MH-Awareness-1024x538.jpg',
+        category: 'Mental Health',
+        author: 'Jean Holthaus, LISW, LMSW',
+      ),
+
+      Article(
+        id: '14',
+        title: 'Dried Blood Test May Detect HIV, Hepatitis B and C',
+        snippet:
+            'A test using a single spot of dried blood successfully detected HIV, hepatitis B, and hepatitis C in all 60 samples with known amounts of each virus. Data on a groundbreaking test with the potential to detect HIV, hepatitis B, and hepatitis C using just a single drop of blood will be presented at this year’s European Congress of Clinical Microbiology & Infectious Diseases (ECCMID).',
+        content: '''
+Data on a groundbreaking test with the potential to detect HIV, hepatitis B, and hepatitis C using just a single drop of blood will be presented at this year’s European Congress of Clinical Microbiology & Infectious Diseases (ECCMID).
+
+This news comes from a press release based on abstract 1727 to be presented at the ECCMID annual meeting, which will be held in Copenhagen, Denmark, April 15-18. The study has been peer reviewed by the congress selection committee, and there is currently no full paper on the study.
+
+The test was validated by Stephen Nilsson-Møller, molecular biologist at Hvidovre Hospital, and his team in the department of clinical microbiology at Copenhagen University Hospital.
+
+According to Nilsson-Møller and his team, this test has significant implications for global health, as more than 1 million people die each year from hepatitis B or hepatitis C. Additionally, 650,000 people die of HIV-related causes annually, with 1.5 million new HIV infections occurring each year.
+
+The World Health Organization has set a goal of eliminating all 3 viruses by 2030 as part of its global health strategies. However, achieving this goal requires new tests to reduce case numbers. The current standard for detecting these viruses involves taking a blood sample from a vein using a needle, but this method may not be suitable in certain settings such as prisons, drug rehabilitation centers, and homeless shelters, where safety concerns or logistical challenges may limit its use. Additionally, in resource-limited settings, the shipping and refrigerated storage of blood samples can pose significant challenges.
+
+“It is also suitable for developing countries or places where you run the risk of a blood sample being ruined before it is transferred to a laboratory that can analyse it,” Nilsson-Møller noted. “Blood samples need to be analysed within six hours when kept at room temperature, while dried blood spots can last for nine months without refrigeration.”
+
+The dried blood spot test assessed by Nilsson-Møller and colleagues offers a solution to these challenges. In this test, an individual’s finger is pricked to collect a few drops of blood on filter paper, which is then allowed to dry.
+
+The dried blood spot is then analyzed using the Hologic Panther System—a widely available testing equipment in public health laboratories—using a transcription mediated amplification technique to look for genetic material from the 3 viruses in the blood spot. This analysis is designed to be, and is typically, run on liquid samples of plasma or serum rather than dried samples.
+
+With a total of 60 dried blood samples with known amounts of HIV, hepatitis B, and hepatitis C—20 samples per virus—the test successfully detected the viruses in all samples analyzed. The blood plasma was also diluted to determine the lower limit of detection, which showed that it was possible to detect the 3 viruses at levels much lower than normally found in untreated patients.
+
+“We’ve shown that using existing hospital equipment, it is possible to detect HIV, hepatitis B and hepatitis C from a single drop of blood,” Nilsson-Møller stated.
+
+
+https://www.ajmc.com/view/dried-blood-test-may-detect-hiv-hepatitis-b-and-c
+
+''',
+        imageUrl:
+            'https://scx2.b-cdn.net/gfx/news/hires/2023/drop-of-blood.jpg',
+        category: 'HIV and STD',
+        author: 'Hayden E. Klein, 2023',
+      ),
+
+      Article(
+        id: '15',
+        title: 'Group promotes HIV awareness in gov\'t agencies',
+        snippet:
+            'MANILA – An advocacy group providing life-saving assistance to people living with human immunodeficiency virus (PLHIV) on Monday launched a program that aims to break the discrimination and stigma attached to HIV in government agencies.',
+        content: '''
+
+MANILA – An advocacy group providing life-saving assistance to people living with human immunodeficiency virus (PLHIV) on Monday launched a program that aims to break the discrimination and stigma attached to HIV in government agencies.
+
+Project Red Ribbon Director Ico Rodulfo Johnson told the Philippine News Agency (PNA) that their group wanted government agencies to have a safe, working environment and a safe space where people can talk about HIV as it affects not only the at-risk population but also every member of the society.
+
+"By bringing the HIV services to government agencies, they will be made aware of the services of the Department of Health but also they will witness and feel the services so they can easily talk about HIV more freely, basically to normalize a conversation," he said.
+
+Project Red Ribbon provides HIV awareness, prevention, testing, treatment, care and support services to improve the quality of life of PLHIV.
+
+The program started with a candlelight ceremony in front of the Philippine Information Agency (PIA) building on Visayas Avenue in Quezon City.
+
+The ceremony commemorates the hardships faced by PLHIVs and the people who have died from HIV.
+
+READ: DOH, PNAC draft strategies vs. HIV, AIDS epidemic
+
+Johnson said their group would have the same program at the Department of Health on May 15, the Department of Justice on May 22 and the Department of Social Welfare and Development on May 29.
+
+DOH Assistant Secretary Beverly Ho, who also took part in the ceremony, encouraged everyone to get tested for HIV.
+
+"Kase 'di po gaya nung 1980s na kapag nagkaroon ka ng AIDS, nasentensiyahan ka na, kamatayan na siya, ngayon, maganda na po 'yung mga gamot natin (Unlike in the 1980s when you have it, it's already a death sentence, now, we have good medicines). The side effects are lesser and many of our PLHIVS are living normal lives, they are able to go to work, go to school, with actually very little difficulty," she said.
+
+HIV testing, anti-retroviral therapies (ART) for PLHIVs and pre-exposure prophylaxis medicines are provided free at social hygiene clinics and some treatment centers in local government units. The list of these centers and clinics can be found on the DOH website, she added.
+
+
+https://www.pna.gov.ph/articles/1200943
+
+''',
+        imageUrl:
+            'https://files01.pna.gov.ph/source/2023/05/08/jel7211-copy.jpg',
+        category: 'HIV and STD',
+        author: 'Ma. Teresa Montemayor, 2023',
+      ),
+
+      Article(
+        id: '16',
+        title: 'Sexually transmitted infections (STIs)',
+        snippet:
+            'More than 1 million curable sexually transmitted infections (STIs) are acquired every day worldwide in people 15–49 years old, the majority of which are asymptomatic.',
+        content: '''
+
+Overview
+More than 30 different bacteria, viruses and parasites are known to be transmitted through sexual contact, including vaginal, anal and oral sex. Some STIs can also be transmitted from mother-to-child during pregnancy, childbirth and breastfeeding. Eight pathogens are linked to the greatest incidence of STIs. Of these, 4 are currently curable: syphilis, gonorrhoea, chlamydia and trichomoniasis. The other 4 are viral infections: hepatitis B, herpes simplex virus (HSV), HIV and human papillomavirus (HPV).
+
+In addition, emerging outbreaks of new infections that can be acquired by sexual contact such as mpox, Shigella sonnei, Neisseria meningitidis, Ebola and Zika, as well as re-emergence of neglected STIs such as lymphogranuloma venereum. These herald increasing challenges in the provision of adequate services for STIs prevention and control.
+
+Scope of the problem
+STIs have a profound impact on sexual and reproductive health worldwide.
+
+More than 1 million curable STIs are acquired every day. In 2020, WHO estimated 374 million new infections with 1 of 4 STIs: chlamydia (129 million), gonorrhoea (82 million), syphilis (7.1 million) and trichomoniasis (156 million). More than 490 million people were estimated to be living with genital herpes in 2016, and an estimated 300 million women have an HPV infection, the primary cause of cervical cancer and anal cancer among men who have sex with men. In addition, updated WHO estimates indicate that 254 million people were living with hepatitis B in 2022.
+
+STIs can have serious consequences beyond the immediate impact of the infection itself.
+
+STIs like herpes, gonorrhoea and syphilis can increase the risk of HIV acquisition.
+Mother-to-child transmission of STIs can result in stillbirth, neonatal death, low-birth weight and prematurity, sepsis, neonatal conjunctivitis and congenital deformities.
+HPV infection causes cervical and other cancers.
+Hepatitis B resulted in just over 1 million deaths in 2022, mostly from cirrhosis and hepatocellular carcinoma.
+STIs such as gonorrhoea and chlamydia are major causes of pelvic inflammatory disease and infertility in women.
+Prevention of STIs
+When used correctly and consistently, condoms offer one of the most effective methods of protection against STIs, including HIV. Although highly effective, condoms do not offer protection for STIs that cause extra-genital ulcers (i.e., syphilis or genital herpes). When possible, condoms should be used in all vaginal and anal sex.
+
+Safe and highly effective vaccines are available for 2 viral STIs: hepatitis B and HPV. These vaccines have represented major advances in STI prevention. By the end of 2023, the HPV vaccine had been introduced as part of routine immunization programmes in 140countries, primarily high- and middle-income countries. To eliminate cervical cancer as a public health problem globally, high coverage targets for HPV vaccination, screening and treatment of precancerous lesions, and management of cancer must be reached by 2030 and maintained at this high level for decades.
+
+Research to develop vaccines against genital herpes is advanced, with several vaccine candidates in early clinical development. There is mounting evidence suggesting that the vaccine to prevent meningitis (MenB) provides some cross-protection against gonorrhoea. More research into vaccines for chlamydia, gonorrhoea, syphilis and trichomoniasis are needed.
+
+Other biomedical interventions to prevent some STIs include adult voluntary medical male circumcision, microbicides, and partner treatment. There are ongoing trials to evaluate the benefit of pre- and post-exposure prophylaxis of STIs and their potential safety weighed with antimicrobial resistance (AMR).
+
+https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)
+
+''',
+        imageUrl:
+            'https://cdn.who.int/media/images/default-source/imported/adolescents-stis-hiv-kenya.tmb-1920v.jpg?sfvrsn=c694ed63_44',
+        category: 'HIV and STD',
+        author: 'WHO, 2024',
+      ),
+
+      Article(
+        id: '17',
+        title:
+            'Southeast Asia’s Most Gay-Friendly Country Still Has No Law Against LGBT Discrimination',
+        snippet:
+            'At first glance, the deeply Catholic Philippines can seem surprisingly LGBT-friendly. In a nation of 110 million people, more than 110,000 showed up last week to Quezon City’s Pride festival, making it by far the largest LGBT congregation in Southeast Asia. The country also ranks highest in the region for LGBT social acceptance—according to a 2021 global index—and it’s made significant strides over the years toward greater inclusivity and equality.',
+        content: '''
+At first glance, the deeply Catholic Philippines can seem surprisingly LGBT-friendly. In a nation of 110 million people, more than 110,000 showed up last week to Quezon City’s Pride festival, making it by far the largest LGBT congregation in Southeast Asia. The country also ranks highest in the region for LGBT social acceptance—according to a 2021 global index—and it’s made significant strides over the years toward greater inclusivity and equality.
+
+And yet, for more than two decades, a bill that would criminalize discrimination based on one’s sexual orientation, gender identity, gender expression, or sex characteristics (SOGIESC) has languished in the Philippines’ Congress. Year after year, it’s practically become an annual tradition for legislation on the matter to be reintroduced and rejected, leaving LGBT people in many parts of the country with no legal recourse when they’re discriminated against.
+
+While many cities across the country have already instituted local ordinances to make SOGIESC-based discrimination illegal, Irish Inoceto, a Filipino LGBT activist and former employee of the Philippine Supreme Court, tells TIME that they have “no teeth at all” and that she has seen firsthand just how overdue and glaringly necessary such a nationwide law is.
+
+
+https://time.com/6290762/philippines-pride-lgbt-discrimination-sogie-equality-bill/
+''',
+        imageUrl:
+            'https://api.time.com/wp-content/uploads/2023/06/philippines-lgbt-sogie-1.jpg?quality=85&w=1440',
+        category: 'SOGIESC',
+        author: 'CHAD DE GUZMAN, 2023',
+      ),
+
+      Article(
+        id: '18',
+        title: 'We accept the love we think we deserve',
+        snippet:
+            'I’m no stranger to neglect. Ever since I was a child, I was used to receiving less affection than others. We don’t come into this world knowing what love is. We are shaped by our experiences, both positive and negative. We are influenced by what we see in movies, TV shows, and social media. We learn about love from our families and friends, sometimes in toxic ways.',
+        content: '''
+''',
+        imageUrl: 'https://pbs.twimg.com/media/DRt6MKrVAAADTxP.jpg:large',
+        category: 'Mental Health',
+        author: 'pau, 2024',
+      ),
+
+      Article(
+        id: '13',
+        title: 'We accept the love we think we deserve',
+        snippet:
+            'I’m no stranger to neglect. Ever since I was a child, I was used to receiving less affection than others. We don’t come into this world knowing what love is. We are shaped by our experiences, both positive and negative. We are influenced by what we see in movies, TV shows, and social media. We learn about love from our families and friends, sometimes in toxic ways.',
+        content: '''
+''',
+        imageUrl: 'https://pbs.twimg.com/media/DRt6MKrVAAADTxP.jpg:large',
+        category: 'Mental Health',
+        author: 'pau, 2024',
+      ),
+
+      Article(
+        id: '13',
+        title: 'We accept the love we think we deserve',
+        snippet:
+            'I’m no stranger to neglect. Ever since I was a child, I was used to receiving less affection than others. We don’t come into this world knowing what love is. We are shaped by our experiences, both positive and negative. We are influenced by what we see in movies, TV shows, and social media. We learn about love from our families and friends, sometimes in toxic ways.',
+        content: '''
+''',
+        imageUrl: 'https://pbs.twimg.com/media/DRt6MKrVAAADTxP.jpg:large',
+        category: 'Mental Health',
+        author: 'pau, 2024',
+      ),
+
+      Article(
+        id: '13',
+        title: 'We accept the love we think we deserve',
+        snippet:
+            'I’m no stranger to neglect. Ever since I was a child, I was used to receiving less affection than others. We don’t come into this world knowing what love is. We are shaped by our experiences, both positive and negative. We are influenced by what we see in movies, TV shows, and social media. We learn about love from our families and friends, sometimes in toxic ways.',
+        content: '''
+''',
+        imageUrl: 'https://pbs.twimg.com/media/DRt6MKrVAAADTxP.jpg:large',
+        category: 'Mental Health',
+        author: 'pau, 2024',
+      ),
+
+      Article(
+        id: '13',
+        title: 'We accept the love we think we deserve',
+        snippet:
+            'I’m no stranger to neglect. Ever since I was a child, I was used to receiving less affection than others. We don’t come into this world knowing what love is. We are shaped by our experiences, both positive and negative. We are influenced by what we see in movies, TV shows, and social media. We learn about love from our families and friends, sometimes in toxic ways.',
+        content: '''
+''',
+        imageUrl: 'https://pbs.twimg.com/media/DRt6MKrVAAADTxP.jpg:large',
+        category: 'Mental Health',
+        author: 'pau, 2024',
+      ),
       // Add more articles here
     ];
     _bookmarkService.setAllArticles(_articles);
