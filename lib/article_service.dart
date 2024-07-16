@@ -755,62 +755,134 @@ https://time.com/6290762/philippines-pride-lgbt-discrimination-sogie-equality-bi
 
       Article(
         id: '18',
-        title: 'We accept the love we think we deserve',
+        title: 'Just Let Us Be',
         snippet:
-            'I’m no stranger to neglect. Ever since I was a child, I was used to receiving less affection than others. We don’t come into this world knowing what love is. We are shaped by our experiences, both positive and negative. We are influenced by what we see in movies, TV shows, and social media. We learn about love from our families and friends, sometimes in toxic ways.',
+            'Schools should be safe places for everyone. But in the Philippines, students who are lesbian, gay, bisexual, and transgender (LGBT) too often find that their schooling experience is marred by bullying, discrimination, lack of access to LGBT-related information, and in some cases, physical or sexual assault.',
         content: '''
+Schools should be safe places for everyone. But in the Philippines, students who are lesbian, gay, bisexual, and transgender (LGBT) too often find that their schooling experience is marred by bullying, discrimination, lack of access to LGBT-related information, and in some cases, physical or sexual assault. These abuses can cause deep and lasting harm and curtail students’ right to education, protected under Philippine and international law.
+
+In recent years, lawmakers and school administrators in the Philippines have recognized that bullying of LGBT youth is a serious problem, and designed interventions to address it. In 2012, the Department of Education (DepEd), which oversees primary and secondary schools, enacted a Child Protection Policy designed to address bullying and discrimination in schools, including on the basis of sexual orientation and gender identity. The following year, Congress passed the Anti-Bullying Law of 2013, with implementing rules and regulations that enumerate sexual orientation and gender identity as prohibited grounds for bullying and harassment. The adoption of these policies sends a strong signal that bullying and discrimination are unacceptable and should not be tolerated in educational institutions.
+
+https://www.hrw.org/report/2017/06/22/just-let-us-be/discrimination-against-lgbt-students-philippines
 ''',
-        imageUrl: 'https://pbs.twimg.com/media/DRt6MKrVAAADTxP.jpg:large',
-        category: 'Mental Health',
-        author: 'pau, 2024',
+        imageUrl:
+            'https://www.hrw.org/sites/default/files/styles/16x9_3xl/public/multimedia_images_2017/201706lgbt_philippines_main_0.jpg?itok=rRFg51ZN',
+        category: 'SOGIESC',
+        author: 'HRW, 2017',
       ),
 
       Article(
-        id: '13',
-        title: 'We accept the love we think we deserve',
+        id: '19',
+        title:
+            'Congress marks milestone in legislating gender equality bills in 2023',
         snippet:
-            'I’m no stranger to neglect. Ever since I was a child, I was used to receiving less affection than others. We don’t come into this world knowing what love is. We are shaped by our experiences, both positive and negative. We are influenced by what we see in movies, TV shows, and social media. We learn about love from our families and friends, sometimes in toxic ways.',
+            'MANILA – The Philippines continues to lead as the most gender-equal country in Asia with a 79.1 percent gender parity based on the 2023 Global Gender Gap Index Report by the World Economic Forum.',
         content: '''
+MANILA – The Philippines continues to lead as the most gender-equal country in Asia with a 79.1 percent gender parity based on the 2023 Global Gender Gap Index Report by the World Economic Forum.
+
+Last year, the Philippines also improved three notches to 16th place among 146 countries in gender equality based on economic participation and opportunity, educational attainment, health and survival and political empowerment.
+
+The House of Representatives has made legislative efforts that reflect the government's commitment to address gender-based disparities and create a more equitable society.
+
+A key legislative milestone is the passage of a measure prohibiting discrimination on the basis of a person’s sexual orientation, gender identity, gender expression or sex characteristics (SOGIESC) at the committee level.
+
+The SOGIESC bill, which has been stalled for more than two decades, gained a bit of traction after the House Committee on Women and Gender Equality approved the substitute bill consolidating House Bills 222, 460, 3418, 4277, 5551, 6003, and 7036 in May 2023.
+
+The Commission on Human Rights welcomed the approval of the SOGIESC bill at the panel level, saying its passage “will give better meaning to the guarantees of equality and non-discrimination under these standards and statues.”
+
+In the Senate, the SOGIESC Equality bill already hurdled the committee level after 19 senators signed a committee report recommending the measure in December 2022, a significant improvement from the previous 18th Congress where only eight senators approved the bill.
+
+Committee chair and Bataan First District Rep. Geraldine Roman said the bill aims to protect members of the lesbian, gay, bisexual, transgender, queer, intersex and asexual (LGBTQIA+) community and guarantee their rights as Filipino citizens and human beings.
+
+"Although it is claimed the Philippine society is tolerant and accepting of members of the LGBT community, in practice and in terms of legal protection, there are no specific national laws that address this kind of discrimination from which this sector of society suffers," Roman said in a previous media interview.
+
+Roman said the proposed law seeks to put an end to the situation of non-protection and neglect, while upholding the fundamental rights and human dignity of the members of the LGBTQIA+ community to attain "an inclusive society where all citizens are equal".
+
+Quezon City First District Rep. Juan Carlos Atayde, author of the measure, noted that those belonging to the LGBTQIA+ community have suffered marginalization, oppression and other forms of abuse due to their SOGIE.
+
+Atayde said the bill does not seek to provide spec
+
+https://www.pna.gov.ph/articles/1217082
 ''',
-        imageUrl: 'https://pbs.twimg.com/media/DRt6MKrVAAADTxP.jpg:large',
-        category: 'Mental Health',
-        author: 'pau, 2024',
+        imageUrl:
+            'https://files01.pna.gov.ph/category-list/2022/07/25/19th-congressopeningsession.jpg',
+        category: 'SOGIESC',
+        author: 'Filane Mikee Cervantes, 2024',
       ),
 
       Article(
-        id: '13',
-        title: 'We accept the love we think we deserve',
+        id: '20',
+        title:
+            'HIV in the Philippines: A Persisting Public Health Crisis Closely Tied To Social Stigma',
         snippet:
-            'I’m no stranger to neglect. Ever since I was a child, I was used to receiving less affection than others. We don’t come into this world knowing what love is. We are shaped by our experiences, both positive and negative. We are influenced by what we see in movies, TV shows, and social media. We learn about love from our families and friends, sometimes in toxic ways.',
+            'Human immunodeficiency virus, also known as HIV, is present in several regions around the world. Although the virus has the same transmission mechanisms and symptoms regardless of its locality, HIV is experienced very differently across the globe.',
         content: '''
+Human immunodeficiency virus, also known as HIV, is present in several regions around the world. Although the virus has the same transmission mechanisms and symptoms regardless of its locality, HIV is experienced very differently across the globe.¹ This is due to several cultural and social factors impacting how HIV is viewed and treated. The Philippines is one country where the way individuals view HIV heavily impacts its transmission and treatment.2 Due to stigma and discrimination surrounding HIV, the Philippines is currently experiencing the fastest-growing HIV epidemic in the Western Pacific.3 Specifically, stigma and discrimination against men who have sex with men (MSM) and HIV-positive MSM have significantly boosted the proliferation of the virus.4 MSM with HIV in the Philippines face an intersection of stigma: on the one hand they experience stigma toward their sexual orientation, and on the other hand, they experience stigma toward their HIV status.4 Because of the stigma MSM encounter, they face several barriers to HIV prevention, testing and treatment.5 Approximately 70 percent of HIV cases in the Philippines are among MSM,3 yet over three-quarters of MSM in the Philippines have never obtained an HIV test.2 Not only do MSM feel discouraged from seeking care, but healthcare facilities are failing to provide adequate services for this at-risk population.4 Understanding the social determinants of HIV transmission in the Philippines is needed to provide insight as to why MSM are disproportionately infected with the virus. 
+
+In a country where discrimination is still legal in some contexts, and only 73 percent of Filipinos say society should accept homosexuality,6 discrimination against MSM is not uncommon. Homosexuality is legal, but LGBTQ+ individuals cannot adopt children, conversion therapy is not banned, and gay marriage is not recognized.6 Overall, Philippine views of homosexuality reflect an attitude that is tolerant, but not accepting, of LGBTQ+ individuals. This view often results in discrimination within workplaces and social circles.3 Attitudes toward HIV-positive individuals are also stigmatized, as HIV infection is often equated to sin and immorality.5 Strong roots in Catholicism coupled with poor HIV education are some of the main drivers of both HIV and sexual orientation-related stigma.4 Together, this array of stigma and discrimination solidify as barriers to HIV testing and treatment within the health care system. 
+
+Individuals with HIV have viral loads, which are measurements of the amount of virus present inside the body.7 A high viral load indicates a large amount of HIV in the blood. When an individual has a high viral load, they are very contagious. Conversely, when an individual has a low viral load, they have a low amount of HIV in their blood and are unlikely to transmit the virus.8 In the Philippines, where treatment services such as antiretroviral therapy (ART) are not sufficiently provided and made accessible, a failure to treat is also a failure to prevent. When treatment services do not successfully suppress the viral loads of affected populations, not only do infected individuals become sicker, but they also have the potential to spread the virus.7
+
+The research question I will address in this paper is: How do stigma and discrimination toward MSM in the Philippines impact their access to prevention, testing, and treatment services for HIV? Through this question, two general ideas can be explored through peer-reviewed literature. Firstly, the question will explore how the desire of MSM to seek prevention, testing, and treatment is affected by experiences of stigma and discrimination in multiple capacities. The question will also explore how discrimination within healthcare facilities, in addition to the failure of healthcare facilities to accommodate for discrimination experienced outside of the healthcare setting, contributes to the lack of appropriate HIV care for MSM. 
+
+
+https://sites.brown.edu/publichealthjournal/2024/03/21/hiv-in-the-philippines-a-persisting-public-health-crisis-closely-tied-to-social-stigma/
 ''',
-        imageUrl: 'https://pbs.twimg.com/media/DRt6MKrVAAADTxP.jpg:large',
-        category: 'Mental Health',
-        author: 'pau, 2024',
+        imageUrl:
+            'https://sites.brown.edu/publichealthjournal/files/2024/03/HIV-in-the-Philippines_-A-Persisting-Public-Health-Crisis-Closely-Tied-to-Social-Stigma-bbbfc9d5b8922fc1-1024x895.jpg',
+        category: 'HIV and STD',
+        author: 'BUJPH, 2024',
       ),
 
       Article(
-        id: '13',
-        title: 'We accept the love we think we deserve',
+        id: '21',
+        title: 'Philippines recording 55 new HIV cases per day: DOH chief',
         snippet:
             'I’m no stranger to neglect. Ever since I was a child, I was used to receiving less affection than others. We don’t come into this world knowing what love is. We are shaped by our experiences, both positive and negative. We are influenced by what we see in movies, TV shows, and social media. We learn about love from our families and friends, sometimes in toxic ways.',
         content: '''
-''',
-        imageUrl: 'https://pbs.twimg.com/media/DRt6MKrVAAADTxP.jpg:large',
-        category: 'Mental Health',
-        author: 'pau, 2024',
-      ),
 
-      Article(
-        id: '13',
-        title: 'We accept the love we think we deserve',
-        snippet:
-            'I’m no stranger to neglect. Ever since I was a child, I was used to receiving less affection than others. We don’t come into this world knowing what love is. We are shaped by our experiences, both positive and negative. We are influenced by what we see in movies, TV shows, and social media. We learn about love from our families and friends, sometimes in toxic ways.',
-        content: '''
+MANILA — Health chief Teodoro Herbosa on Wednesday expressed concern over the alarming increase in HIV cases in the Philippines. 
+
+An average of 55 individuals are being diagnosed with HIV in the country every day, he said.
+
+The increase in new cases is really high, Herbosa said, noting that the "very scary part" is that many young people — as early as 15 years old — are being diagnosed with HIV infection.
+
+HIV is no longer a death sentence worldwide due to life-saving antiretroviral drugs (ARVs) that can help people living with the infection lead normal lives.
+
+Herbosa pointed out that minors who test positive for the infection need parental consent to acquire ARVs.
+
+He said some minors who need the HIV drugs could struggle to obtain parental consent because doing so, he said, could reveal their sexual identities.
+
+"Nawawala sila tapos bumabalik sila 18 years old with full-blown AIDS. Mamamatay na 'yon," Herbosa said.
+
+(They disappear and then come back at 18 years old with full-blown AIDS. They're going to die.)
+
+AIDS is the late stage of HIV infection, which anyone can get through unprotected sex, mother-and-child transmission, or sharing of needles. 
+
+Antiretroviral treatment can still help people with AIDS, "and it can even be lifesaving," according to US government site hiv.gov.
+
+Because of this potential hurdle in the treatment of minors with HIV, Herbosa suggested a program where "they can allow the doctors or a guardian to allow the ARVs to be had."
+
+He said ARVs are only allowed to be dispensed by the government through state insurer PhilHealth.
+
+"You can’t buy from the private sector. The other thing is probably make it available in the private sector," he said.
+
+READ: HIV cases in PH may hit 500,000 in 6 years: DOH
+
+Herbosa also said the younger population needs HIV awareness and prevention because of their early exposure to the internet, which could expose them to risky behaviors.
+
+ He said he has communicated with Education Secretary and Vice President Sara Duterte to intensify HIV education.
+
+In March 2024, the DOH said there were 1,224 new HIV infections with 12 reported deaths. Nearly half of the March cases were aged 25-34 and almost a third were aged 15-24.
+
+The agency said 122,255 people are living with HIV in the Philippines but only 64 percent or 78,633 of them are currently on antiretroviral therapy.
+
+https://news.abs-cbn.com/news/2024/5/22/philippines-recording-55-new-hiv-cases-per-day-doh-chief-1542
 ''',
-        imageUrl: 'https://pbs.twimg.com/media/DRt6MKrVAAADTxP.jpg:large',
-        category: 'Mental Health',
-        author: 'pau, 2024',
+        imageUrl:
+            'https://static1.squarespace.com/static/5ad9d1f9620b85b47733d350/5ae2f5b6aa4a99e3aaccbb1e/5dd2593fb9f8cf5cdf9a3b33/1574327648633/HIV.jpg?format=1500w',
+        category: 'HIV and STD',
+        author: 'Pia Gutierrez, Rowegie Abanto, ABS-CBN News, 2024',
       ),
       // Add more articles here
     ];
