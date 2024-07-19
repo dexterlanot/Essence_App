@@ -4,6 +4,7 @@ import 'responsive_layout.dart';
 import 'article_card.dart';
 import 'article_service.dart';
 import 'bookmark_service.dart';
+import 'login_screen.dart';
 import 'main.dart';
 
 class HomePage extends StatefulWidget {
@@ -42,6 +43,7 @@ class MobileHomeLayout extends StatelessWidget {
         actions: const [
           BookmarkButton(),
           ThemeToggle(),
+          LogoutButton(),
         ],
       ),
       body: ListView(
@@ -78,6 +80,7 @@ class DesktopHomeLayout extends StatelessWidget {
           ),
           BookmarkButton(),
           ThemeToggle(),
+          LogoutButton(),
         ],
       ),
       body: const SingleChildScrollView(
@@ -129,6 +132,48 @@ class ThemeToggle extends StatelessWidget {
           ),
           onPressed: () {
             themeService.toggleTheme();
+          },
+        );
+      },
+    );
+  }
+}
+
+class LogoutButton extends StatelessWidget {
+  const LogoutButton({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return IconButton(
+      icon: const Icon(Icons.logout),
+      onPressed: () {
+        // Show a confirmation dialog
+        showDialog(
+          context: context,
+          builder: (BuildContext context) {
+            return AlertDialog(
+              title: const Text('Logout'),
+              content: const Text('Are you sure you want to logout?'),
+              actions: <Widget>[
+                TextButton(
+                  child: const Text('Cancel'),
+                  onPressed: () {
+                    Navigator.of(context).pop();
+                  },
+                ),
+                TextButton(
+                  child: const Text('Logout'),
+                  onPressed: () {
+                    // Perform logout action
+                    Navigator.of(context).pop();
+                    Navigator.of(context).pushReplacement(
+                      MaterialPageRoute(
+                          builder: (context) => const LoginScreen()),
+                    );
+                  },
+                ),
+              ],
+            );
           },
         );
       },

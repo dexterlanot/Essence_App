@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'homepage.dart';
 import 'article_service.dart';
 import 'bookmark_service.dart';
+import 'login_screen.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 void main() {
@@ -32,7 +32,7 @@ class AwarenessApp extends StatelessWidget {
         return MaterialApp(
           title: 'Awareness App',
           theme: _buildTheme(themeService.isDarkMode),
-          home: const HomePage(),
+          home: const LoginScreen(),
         );
       },
     );
