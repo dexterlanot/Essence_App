@@ -61,4 +61,4 @@ Bookmark articles by tapping the bookmark icon on each article. Access bookmarke
 
 ## Demo
 
-- **[View Demo]([https://appdevproject-4c2b2.web.app/](https://appdevproject-4c2b2.web.app/))**
+- **[View Demo](https://appdevproject-4c2b2.web.app/)**
