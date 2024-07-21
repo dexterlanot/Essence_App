@@ -5,6 +5,7 @@ import 'bookmark_service.dart';
 import 'login_screen.dart';
 import 'package:google_fonts/google_fonts.dart';
 
+// Main function to run the app
 void main() {
   runApp(
     MultiProvider(
@@ -22,6 +23,7 @@ void main() {
   );
 }
 
+// Main app widget
 class AwarenessApp extends StatelessWidget {
   const AwarenessApp({super.key});
 
@@ -38,6 +40,7 @@ class AwarenessApp extends StatelessWidget {
     );
   }
 
+// Builds the app theme based on dark mode status
   ThemeData _buildTheme(bool isDarkMode) {
     final colorScheme = isDarkMode
         ? const ColorScheme.dark(
@@ -54,6 +57,7 @@ class AwarenessApp extends StatelessWidget {
     return ThemeData(
       useMaterial3: true,
       colorScheme: colorScheme,
+      // Sets the app's text theme using Google Fonts
       textTheme: GoogleFonts.interTextTheme(
         TextTheme(
           titleLarge: TextStyle(
@@ -67,6 +71,7 @@ class AwarenessApp extends StatelessWidget {
           ),
         ),
       ),
+      // Customizes the style of elevated buttons
       elevatedButtonTheme: ElevatedButtonThemeData(
         style: ElevatedButton.styleFrom(
           backgroundColor: colorScheme.primary,
@@ -80,6 +85,7 @@ class AwarenessApp extends StatelessWidget {
   }
 }
 
+// Service to manage theme settings
 class ThemeService extends ChangeNotifier {
   bool _isDarkMode = false;
 

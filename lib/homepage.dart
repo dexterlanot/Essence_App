@@ -14,6 +14,7 @@ class HomePage extends StatefulWidget {
   _HomePageState createState() => _HomePageState();
 }
 
+// State class for HomePage
 class _HomePageState extends State<HomePage> {
   @override
   void initState() {
@@ -31,6 +32,7 @@ class _HomePageState extends State<HomePage> {
   }
 }
 
+// Layout for mobile devices
 class MobileHomeLayout extends StatelessWidget {
   const MobileHomeLayout({super.key});
 
@@ -57,6 +59,7 @@ class MobileHomeLayout extends StatelessWidget {
   }
 }
 
+// Layout for desktop devices
 class DesktopHomeLayout extends StatelessWidget {
   const DesktopHomeLayout({super.key});
 
