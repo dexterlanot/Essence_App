@@ -50,7 +50,9 @@ class DesktopLoginLayout extends StatelessWidget {
                 'assets/image.png',
                 fit: BoxFit.contain,
               ).animate().fadeIn(duration: 600.ms).scale(
-                  begin: const Offset(0.8, 0.8), end: const Offset(1, 1), duration: 600.ms),
+                  begin: const Offset(0.8, 0.8),
+                  end: const Offset(1, 1),
+                  duration: 600.ms),
             ),
           ),
         ),
@@ -160,8 +162,8 @@ class _LoginFormState extends State<LoginForm> {
           const SizedBox(height: 30),
           TextFormField(
             controller: _usernameController,
-            style:
-                const TextStyle(color: Colors.white), // Set the text color to white
+            style: const TextStyle(
+                color: Colors.white), // Set the text color to white
             decoration: InputDecoration(
               hintText: 'Username',
               hintStyle: TextStyle(color: Colors.grey[400]),
@@ -187,8 +189,7 @@ class _LoginFormState extends State<LoginForm> {
           TextFormField(
             controller: _passwordController,
             obscureText: true,
-            style:
-                const TextStyle(color: Colors.white), // Set the text color to white
+            style: const TextStyle(color: Colors.white),
             decoration: InputDecoration(
               hintText: 'Password',
               hintStyle: TextStyle(color: Colors.grey[400]),

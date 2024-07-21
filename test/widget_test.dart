@@ -1,29 +1,44 @@
-// This is a basic Flutter widget test.
-//
-// To perform an interaction with a widget in your test, use the WidgetTester
-// utility in the flutter_test package. For example, you can send tap and scroll
-// gestures. You can also use WidgetTester to find child widgets in the widget
-// tree, read text, and verify that the values of widget properties are correct.
-
 import 'package:flutter/material.dart';
-import '../lib/main.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:provider/provider.dart';
+import 'package:final_project/main.dart';
+import 'package:final_project/login_screen.dart';
+import 'package:final_project/article_service.dart';
+import 'package:final_project/bookmark_service.dart';
 
 void main() {
-  testWidgets('Counter increments smoke test', (WidgetTester tester) async {
-    // Build our app and trigger a frame.
-    await tester.pumpWidget(const AwarenessApp());
+  testWidgets('LoginScreen is displayed and theme toggles correctly',
+      (WidgetTester tester) async {
+    await tester.pumpWidget(
+      MultiProvider(
+        providers: [
+          ChangeNotifierProvider(create: (context) => BookmarkService()),
+          ChangeNotifierProvider(create: (context) => ThemeService()),
+          ChangeNotifierProxyProvider<BookmarkService, ArticleService>(
+            create: (context) =>
+                ArticleService(context.read<BookmarkService>()),
+            update: (context, bookmarkService, previous) =>
+                previous ?? ArticleService(bookmarkService),
+          ),
+        ],
+        child: const AwarenessApp(),
+      ),
+    );
 
-    // Verify that our counter starts at 0.
-    expect(find.text('0'), findsOneWidget);
-    expect(find.text('1'), findsNothing);
+    expect(find.byType(LoginScreen), findsOneWidget);
 
-    // Tap the '+' icon and trigger a frame.
-    await tester.tap(find.byIcon(Icons.add));
-    await tester.pump();
+    final ThemeData initialTheme =
+        Theme.of(tester.element(find.byType(LoginScreen)));
+    expect(initialTheme.colorScheme.primary, Color(0xFF18181B));
 
-    // Verify that our counter has incremented.
-    expect(find.text('0'), findsNothing);
-    expect(find.text('1'), findsOneWidget);
+    final themeService = Provider.of<ThemeService>(
+        tester.element(find.byType(LoginScreen)),
+        listen: false);
+    themeService.toggleTheme();
+    await tester.pumpAndSettle();
+
+    final ThemeData updatedTheme =
+        Theme.of(tester.element(find.byType(LoginScreen)));
+    expect(updatedTheme.colorScheme.primary, Color(0xFFF4F4F5));
   });
 }
