@@ -1,5 +1,9 @@
 # Essence App Guide
 
+## Description
+
+Essence is a web application built using Flutter, a UI toolkit for crafting natively compiled mobile, web, and desktop applications from a single codebase. This aims to educate users on the importance of mental health, raise awareness about STD and HIV prevention and treatment, and support LGBT rights by providing relevant resources and advocacy information.
+
 ## Getting Started
 
 1. **Install Dependencies**:
