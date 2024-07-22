@@ -1,4 +1,4 @@
-# Essence App Guide
+# Essence App (Pride Porta)
 
 ## Description
 
